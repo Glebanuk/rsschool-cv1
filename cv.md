@@ -12,4 +12,28 @@ https://app.netlify.com/sites/endearing-taiyaki-d9c20b/overview
 3.[Cars]
 https://endearing-taiyaki-d9c20b.netlify.app/
 
-##
+###Work Experience
+####Music school
+*Septembre 2018 - December 2020 | Ukraine*
+
+    *Teaching children musical notation
+    *Guitar practice lessons
+    *Organization of musical events
+####Online school
+*January 2021 - February 2022  | Ukraine*
+
+    *Organization of guitar lessons via Skype.
+    *Teaching people of different ages.
+    *Сreating an individual learning plan for students.
+
+###Education
+#####Pedagogical academy
+Faculty of music
+*Septembre 2018 - December 2022*
+#####English courses
+C1 level
+*Septembre 2021 - May 2022*
+#####RS School
+JavaScript/Front-end 
+*March 2023 - up to now*
+ 
