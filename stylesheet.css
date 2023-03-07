@@ -1,6 +1,9 @@
-.heaeder {
+.header {
+    background-color: red;
 }
 .main__container {
+    text-align: 12px;
 }
 .footer {
+    text-align: center;
 }

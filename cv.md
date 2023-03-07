@@ -7,7 +7,7 @@ My goal is to master a new specialization for myself in which it will be possibl
 ### My projects
 
 1.[Banderogus]
-<https://ephemeral-platypus-2e6fdd.netlify.app/>  
+<https://ephemeral-platypus-2e6fdd.netlify.app/>
 
 2.[Amazing Japan]
 <https://app.netlify.com/sites/endearing-taiyaki-d9c20b/overview>
@@ -31,19 +31,19 @@ January 2021 - February 2022  | Ukraine
 
 * Organization of guitar lessons via Skype.
 * Teaching people of different ages.
-* Сreating an individual learning plan for students.
+* Сreate an individual learning plan for students.
 
 #### Education
 
 ### Pedagogical academy
 
 Faculty of music
-_Septembre 2018 - December 2022_
+_September 2018 - December 2022_
 
 ### English courses
 
 C1 level
-_Septembre 2021 - May 2022_
+_September 2021 - May 2022_
 
 ### RS School
 
