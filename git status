@@ -1,0 +1,77 @@
+[33mcommit b2fc6a968396027ddd0f09dc8aa905a97bf016a7[m[33m ([m[1;36mHEAD -> [m[1;32mrsschool-cv-html[m[33m, [m[1;31morigin/rsschool-cv-html[m[33m)[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Mon Mar 6 13:35:29 2023 +0200
+
+    docs: update readme with additional information
+
+[33mcommit bf387e8063342670d791136d06c1a101ff44c3ef[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Mon Mar 6 13:23:50 2023 +0200
+
+    feat:add CSS to HTML & add classes
+
+[33mcommit 6034c9d6f772adfb98c3b65e0032fcc752470248[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Mon Mar 6 13:17:18 2023 +0200
+
+    feat:add basic structure in html
+
+[33mcommit ec1327cbfb826eedd75065f5e2ede331c6054b20[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Mon Mar 6 12:37:03 2023 +0200
+
+    feat:add html file
+
+[33mcommit 915d5bf87931dc77554ea19f998285f3eec22890[m[33m ([m[1;31morigin/gh-pages[m[33m, [m[1;32mgh-pages[m[33m)[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Mon Mar 6 11:16:31 2023 +0200
+
+    refactor:correct the text №3
+
+[33mcommit c61da170300a29bb15f76de712be23e7fd46f74f[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Sun Mar 5 21:45:52 2023 +0200
+
+    refactor:correct text add space№2
+
+[33mcommit 3f035d9b9e2d5ac500e7a8baac96ce0eb70e03f7[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Sun Mar 5 21:33:07 2023 +0200
+
+    refactor:correct text add spaces
+
+[33mcommit 7bc69f4690ca8cd60d477cfbc2caeb1ab8da4c4d[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Sun Mar 5 21:08:52 2023 +0200
+
+    feat:add img,contacts,tech skills bloks
+
+[33mcommit d2e97d95deb3cc206a748fa38411baeecf0479a7[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Sun Mar 5 20:51:21 2023 +0200
+
+    feat:add work exp & education blocks
+
+[33mcommit acf6c0a16fa54a15f9fecd00441832ff76d41c08[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Sun Mar 5 20:05:12 2023 +0200
+
+    refactor:edit My Project section
+
+[33mcommit 68f1ca6e96b29d26bf06465ca8fcef203e9239ba[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Sun Mar 5 19:51:35 2023 +0200
+
+    feat:add about me & project links
+
+[33mcommit 14c106a6fb5dfef221b28b95c97ac391d3a2a37d[m
+Author: glebanuk <glebbong12387@gmail.com>
+Date:   Sun Mar 5 18:00:58 2023 +0200
+
+    init:cv.md file
+
+[33mcommit 639e71a05df2e56264a22135a756be631c3948a9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Glebanuk <124719534+Glebanuk@users.noreply.github.com>
+Date:   Sun Mar 5 17:46:00 2023 +0200
+
+    Initial commit
