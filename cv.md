@@ -56,7 +56,7 @@ _March 2023 - up to now_
 
 * Cell: +8888888888
 
-* E-mail: glebbong12387@gmail.com
+* E-mail: <glebbong12387@gmail.com>
 
 * Discord: (Glebanuk)#3447
 
