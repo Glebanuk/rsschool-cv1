@@ -1,2 +1,2 @@
-https://Glebanuk.github.io/rsschool-cv/cv
-https://Glebanuk.github.io/rsschool-cv/
+https://Glebanuk.github.io/rsschool-cv1/cv
+https://Glebanuk.github.io/rsschool-cv1/
